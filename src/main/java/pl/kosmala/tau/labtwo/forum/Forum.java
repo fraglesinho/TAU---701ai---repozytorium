@@ -1,4 +1,4 @@
-package pl.kosmala.tau.labone.forum;
+package pl.kosmala.tau.labtwo.forum;
 
 import java.util.Date;
 
